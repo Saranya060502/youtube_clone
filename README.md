@@ -10,7 +10,8 @@
 * Structured project with modular, maintainable code following best practices in modern front-end development.
 * Hosted on GitHub for version control and open-source collaboration.
 
-  ![browse](https://github.com/user-attachments/assets/b33508c4-bbd9-424d-905d-0e8bcfa3fc7c)
+<img width="1520" height="779" alt="image" src="https://github.com/user-attachments/assets/77c6a969-fafe-4a67-bdd5-bac5bfc23e21" />
+
 
 
 
