@@ -4,12 +4,12 @@ import {getFirestore} from "firebase/firestore"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB9NomQPgAoQ6B1c64XhN3ahqN0U1Fe3YU",
-  authDomain: "mern-df125.firebaseapp.com",
-  projectId: "mern-df125",
-  storageBucket: "mern-df125.appspot.com",
+  apiKey: "##",
+  authDomain: "mer.firebaseapp.com",
+  projectId: "mern5",
+  storageBucket: "mern.com",
   messagingSenderId: "757150184874",
-  appId: "1:757150184874:web:16b30a921277ea328527d3"
+  appId: "%%"
 };
 
 // Initialize Firebase
